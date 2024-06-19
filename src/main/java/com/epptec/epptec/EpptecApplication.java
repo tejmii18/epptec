@@ -1,7 +1,7 @@
 package com.epptec.epptec;
 
-import com.epptec.epptec.person.Person;
-import com.epptec.epptec.person.PersonService;
+import com.epptec.epptec.person.entity.Person;
+import com.epptec.epptec.person.service.PersonService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
